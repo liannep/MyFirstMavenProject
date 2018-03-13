@@ -30,7 +30,7 @@ public class AnimalTest {
    @Test
    public void AnimalTest2(){
        animal2.setNumber_of_legs(12);
-       assertEquals(animal2.getNumber_of_legs(),12);
+       assertEquals(animal2.getNumber_of_legs(),11);
    }
 
 
